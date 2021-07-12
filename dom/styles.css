@@ -1,0 +1,39 @@
+.calc-container{
+  background: gray;
+  width: 350px;
+  height: 600px;
+  border-radius: 15px;
+  margin : auto;
+}
+
+.container-row{
+  width: 350px;
+  height: 90px;
+  padding: 10px;
+  
+  margin-bottom: 10px;
+}
+
+.button{
+  text-align: center;
+  padding-top: 10px;
+  background-color: #3a3535;
+  height: 100%;
+  color: white;
+  font-size: 30px;
+  border: solid 3px grey;
+  border-radius: 15px;
+}
+
+.screen{
+
+  padding-top: 10px;
+
+  height: 100%;
+  color: white;
+  font-size: 30px;
+  border: solid 3px grey;
+  border-radius: 15px;
+  background: #adacac;
+  text-align: right;
+}
